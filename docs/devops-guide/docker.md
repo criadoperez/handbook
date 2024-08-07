@@ -24,6 +24,12 @@ follow these steps:
     ```bash
     unzip <filename>
     ```
+    
+1. Enter the folder just created
+
+    ```bash
+    cd <filename>
+    ```
 
 1. Create a `.env` file by copying and adjusting `env.example`:
 
